@@ -49,7 +49,7 @@ npm install
 
 ### - Using MigratorExecutor
 
-Run `MigratorExecutor.bat` from the solution root. [How to run Migrator](/docs/Tutorial%20-%20Basics/migrator)
+Run `MigratorExecutor.bat` from the solution root. [How to run Migrator](/docs/database/migrations)
 
 ### - Manual Migration
 If you prefer manual migration, use the following command:
@@ -59,7 +59,7 @@ If you prefer manual migration, use the following command:
                             --startup-project src/WebApps/UW.Platform.HostApi
   ```
 
-For more details, refer to the [Migration Documentation](/docs/Tutorial%20-%20Basics/migrator).
+For more details, refer to the [Migration Documentation](/docs/database/migrations).
 
 
 # Running the Application

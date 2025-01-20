@@ -19,7 +19,7 @@ Here you'll find everything you need to understand and work with our platform ef
 
 ### Additional Resources
 - [Database Migrations](/docs/database/migrations) - Manage your database schema
-- [Troubleshooting Guide](/docs/troubleshooting) - Common issues and solutions
+- [Troubleshooting Guide](/docs/database/migrations) - Common issues and solutions
 
 ## Need Help?
 
@@ -28,4 +28,4 @@ If you're new to the platform, we recommend starting with:
 2. Follow our [Tutorials](/docs/category/tutorial---basics) for hands-on learning
 3. Explore the [Architecture Overview](/docs/category/architecture) to understand the big picture
 
-For technical issues or questions, refer to our [Troubleshooting Guide](/docs/troubleshooting).
+For technical issues or questions, refer to our [Troubleshooting Guide](/docs/installation).

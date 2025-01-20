@@ -10,7 +10,7 @@ This guide demonstrates how to create a complete module in the UW Platform using
 
 :::tip My tip
 
-Make Sure to have followed the [client-side guide](/docs/Tutorial%20-%20Basics/create-client-page) to set up your development environment.
+Make Sure to have followed the [client-side guide](/docs/tutorial-basics/create-client-page) to set up your development environment.
 
 :::
 
